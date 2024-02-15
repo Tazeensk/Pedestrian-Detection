@@ -45,3 +45,6 @@ Pedestrian-detection-system/
 │   └── video.mp4
 └── output/
     └── detected_people.jpg
+
+**Output**:
+
