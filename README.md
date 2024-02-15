@@ -45,6 +45,9 @@ Pedestrian-detection-system/
 │   └── video.mp4
 └── output/
     └── detected_people.jpg
+    
 
 **Output**:
+https://github.com/Tazeensk/Pedestrian-Detection/blob/main/pedestrian1.png
+
 
