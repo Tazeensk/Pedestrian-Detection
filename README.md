@@ -48,7 +48,8 @@ Pedestrian-detection-system/
     
 
 **Output**:
-https://github.com/Tazeensk/Pedestrian-Detection/blob/main/pedestrian%20gui.png**(With GUI)**
+**(With GUI)**
+https://github.com/Tazeensk/Pedestrian-Detection/blob/main/pedestrian%20gui.png
 https://github.com/Tazeensk/Pedestrian-Detection/blob/main/pedestrian1.png
 https://github.com/Tazeensk/Pedestrian-Detection/blob/main/pedestrian%202.png
 
